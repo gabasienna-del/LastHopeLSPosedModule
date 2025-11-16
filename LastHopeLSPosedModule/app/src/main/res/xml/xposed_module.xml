@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xposed-module>
+    <version>1</version>
+    <name>LastHope LSPosed Module (template)</name>
+    <author>YourName</author>
+    <description>Template module. Edit HookEntry.java to add hooks.</description>
+</xposed-module>
